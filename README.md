@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying English at Rockfeller.
 - 💼 &nbsp; I'm currently working full-time with awesome peeps at **SCI Sistemas Contábeis**
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Mobile Development.
 - 🌱 &nbsp; Learning more about and studying: **React, Web Services, Agile Methodology**
 - 💬 &nbsp; Ping me about: **deeplearning**, **mentorship**, **new technologies**
 
