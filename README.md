@@ -1,20 +1,29 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jvmuller&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-### Eu me chamo João, tenho 20 anos e sou desenvolvedor web.
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=JOAO+MULLER&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Trabalhando na **SCI Sistemas Contábeis**<br/>
-
-Eu sou desenvolvedor **Full-Stack**.
-
-
+<p align="left">
+  Eu me chamo <strong>João</strong>, tenho 20 anos e sou <strong>desenvolvedor web</strong>.
+  No momento, estou trabalhando na <strong>SCI Sistemas Contábeis</strong>.
 </p>
-<hr>
 
-### Entre em contato comigo em algumas dessas redes sociais:
+<p align="left">
+  🦄 Linguagens: <strong>SQL, PHP, Python, Node, React, HTML</strong>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-f8efd4?style=flat-square&logo=Gmail&logoColor=783c00&link=mailto:muller.joaovitor00@gmail.com)](mailto:muller.joaovitor00@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f8efd4?style=flat-square&logo=Linkedin&logoColor=783c00&link=https://www.linkedin.com/in/joaomuller00/)](https://www.linkedin.com/in/joaomuller00/)
+<p align="left">
+  💼 Ferramentas: <strong>Docker, Git, AWS Lambda, Serverless, MySQL, PostgreSQL</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:muller.joaovitor00@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomuller00/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jvmuller00/"/></a>
+</p>  
