@@ -18,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="mailto:muller.joaovitor00@gmail.com" alt="Gmail">
+  <a href="mailto:muller.joaovitor00@gmail.com" alt="Gmail" target=”_blank”>
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:muller.joaovitor00@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/joaomuller00/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joaomuller00/" alt="Linkedin" target=”_blank”>
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomuller00/" /></a>
 
-  <a href="https://www.instagram.com/jvmuller00/" alt="Instagram">
+  <a href="https://www.instagram.com/jvmuller00/" alt="Instagram" target=”_blank”>
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jvmuller00/"/></a>
 </p>  
