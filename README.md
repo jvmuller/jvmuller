@@ -1,42 +1,20 @@
-<!--
-**jvmuller/jvmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jvmuller&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-Here are some ideas to get you started:
+### Faça um breve apresentação sobre você
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/static/v1?label=Overview&message=João Müller&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<h2> Hi, I'm João Müller👋 </br>
- I'm a Web Developer based in Santa Catarina, Brazil.
-</h2>
+<p>
+
+Estudando/trabalhando na **SCI Sistemas Contábeis**<br/>
+
+Eu sou desenvolvedor **Full-Stack**.
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+</p>
+<hr>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying English at Rockfeller.
-- 💼 &nbsp; I'm currently working full-time with awesome peeps at **SCI Sistemas Contábeis**
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Mobile Development.
-- 🌱 &nbsp; Learning more about and studying: **React, Web Services, Agile Methodology**
-- 💬 &nbsp; Ping me about: **deeplearning**, **mentorship**, **new technologies**
+### Entre em contato comigo em algumas dessas redes sociais:
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; PHP | Python | Node.js | SQL
-- 🌐 &nbsp; HTML5 | CSS | JavaScript | TypeScript | Jquery | Bootstrap | VueJS
-- 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; Git | Markdown | Docker | Linux | AWS Serverless
-
-<br/>
-
-<i>Follow me:</i><br>
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muller.joaovitor00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomuller00/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-f8efd4?style=flat-square&logo=Gmail&logoColor=783c00&link=mailto:muller.joaovitor00@gmail.com)](mailto:muller.joaovitor00@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f8efd4?style=flat-square&logo=Linkedin&logoColor=783c00&link=https://www.linkedin.com/in/joaomuller00/)](https://www.linkedin.com/in/joaomuller00/)
